@@ -1,0 +1,36 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "contact": 1234567890,
+      "rating": 4.5,
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "contact": 1234567890,
+      "rating": 4,
+      "email": "macdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Mehra Restaurant",
+      "address": "Gurugram",
+      "contact": 1234567890,
+      "rating": 5,
+      "email": "mehra@test.com"
+    },
+    {
+      "name": "BBQ Nation",
+      "address": "Gandhi Nagar",
+      "contact": 1234567890,
+      "email": "bbq@test.com",
+      "rating": "4.5",
+      "id": 4
+    }
+  ]
+}
